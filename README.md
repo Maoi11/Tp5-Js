@@ -9,7 +9,7 @@
 ## Cómo usar este repo: 💻 
 
 
-Descargá el repositorio y abrí index.html en un navegador, podrás probar un juego llamado "El número mágico".
+Descargá el repositorio y abrí index.html en un navegador, podrás probar un juego llamado "El número mágico", o probá el demo haciendo click aquí: [DEMO](https://numeromagicotp5.netlify.app)
 
 ## Tecnologías 🛠️
 
